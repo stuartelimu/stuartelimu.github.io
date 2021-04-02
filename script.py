@@ -8,4 +8,5 @@ chunk = "<!-- block {} -->{}<!-- endblock {} -->".format("content", "\n{}\n", "c
 
 with open('README.md', 'r+') as f:
     content = f.read()
+    f.seek(0)
     f.write(r.sub(chunk, content))
