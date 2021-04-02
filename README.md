@@ -3,5 +3,5 @@
 Hello, world!
 
 <!-- block content -->
-
+{}
 <!-- endblock content -->
