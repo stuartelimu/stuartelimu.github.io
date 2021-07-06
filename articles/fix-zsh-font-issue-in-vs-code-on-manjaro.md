@@ -8,4 +8,17 @@ When I installed VS Code, I was shocked that the integrated terminal wasn't look
 
 I got to know the problem; which was VS Code had a default font family for the integrated terminal. Now all the solutions above require us to download a new font family but I didn't see it necessary since I was comfortable with the font family my terminal was using. 
 
-Alright, I then had to figure out which
+Alright, I then had to figure out which font was being used in the terminal. A casual google search didn't yield much of a result but I have customized my terminal more than a few times. 
+
+I opened my terminal and clicked on the more context menu on the top right of the window. Then I clicked on Preferences
+
+In the Preferences window, I clicked the 'manjaro' profile and there it was, the default font family used for the terminal. I copied this and opened vs code
+
+I love using keyboard shortcuts so I opened User Settings by Pressing CTRL + Shift + P then typing settings,
+
+I then search for `integrated terminal` settings and scroll down to `Font Family` section, then paste my copied font family.
+
+Once done, when I opened my integrated terminal everything looked just great.
+
+![Screenshot from 2021-07-06 18-17-17](https://user-images.githubusercontent.com/41069456/124626401-4f75bf00-de87-11eb-9091-73c567edea49.png)
+
