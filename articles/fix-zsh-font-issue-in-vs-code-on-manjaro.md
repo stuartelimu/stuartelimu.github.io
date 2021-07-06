@@ -1,6 +1,4 @@
-How Fix zsh font issue in VS Code on Manjaro
-
-vs-code-icons-not-showing 
+# How to fix zsh font issue in VS Code on Manjaro Linux.
 
 One of the things I love about using Manjaro Linux is the zsh terminal. It's quite a whole vibe having auto complete and some really nice icons in the terminal.
 
@@ -13,6 +11,8 @@ Alright, I then had to figure out which font was being used in the terminal. A c
 I opened my terminal and clicked on the more context menu on the top right of the window. Then I clicked on Preferences
 
 In the Preferences window, I clicked the 'manjaro' profile and there it was, the default font family used for the terminal. I copied this and opened vs code
+![Screenshot from 2021-07-06 18-06-18](https://user-images.githubusercontent.com/41069456/124642390-77b9e980-de98-11eb-9e8e-8a66451807ae.png)
+
 
 I love using keyboard shortcuts so I opened User Settings by Pressing CTRL + Shift + P then typing settings,
 
