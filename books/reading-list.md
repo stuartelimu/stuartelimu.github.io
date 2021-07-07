@@ -1,9 +1,3 @@
------
-title: Test
-
-description: [A short description of your site's purpose]
-
------
 # Reading List
 ## 2020
 1. Rich Dad Poor Dad
