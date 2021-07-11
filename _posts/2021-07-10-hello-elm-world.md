@@ -7,7 +7,7 @@ I wrote my first program using elm
 
 ```
 module Main exposing (...)
-import Html exposing (text
+import Html exposing (text)
 
 main = 
   text "Hello, Elm world!"
