@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inside Stue's Brain - Decoding Stuart Elimu
+title: Stuart Elimu
 ---
 
 <ol>
