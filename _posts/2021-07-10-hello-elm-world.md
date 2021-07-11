@@ -1,13 +1,7 @@
-<!--
-.. title: Hello, Elm world!
-.. slug: hello-elm-world
-.. date: 2021-07-10 17:02:22 UTC+03:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
-.. type: text
--->
+---
+layout: post
+---
+# Hello, Elm world!
 
 I wrote my first program using elm
 
