@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Readme](README) - [Books](./books/reading-list)
-
 <ol>
   {% for post in site.posts %}
     <li>
