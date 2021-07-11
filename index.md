@@ -1,4 +1,6 @@
-# Hello, world!
+---
+layout: default
+---
 
 [Readme](README) - [Books](./books/reading-list)
 
