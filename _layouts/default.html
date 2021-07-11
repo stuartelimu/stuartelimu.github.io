@@ -12,7 +12,7 @@
     <div class="container-lg px-3 my-5 markdown-body">
       <a href="README">Readme</a> - <a href="./books/reading-list">Books</a>
       
-      {% if site.title and site.title != page.title %}
+      {% if site.title and site.title == page.title %}
       <h1>{{ site.description }}</h1>
       {% endif %}
       
