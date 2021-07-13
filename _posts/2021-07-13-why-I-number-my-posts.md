@@ -10,4 +10,6 @@ I see a lot of before and after stories or pictures of celebrities, on twitter i
 
 I want that, I want to look back at how far I've come. 
 
+I am numbering all my posts, this was something I looked at as I was designing the layout of the first page. I personally visit my page just to go through my articles. It gives me chills when the numbers are adding up. I love it, I love the progress I have made.
+
 Numbers don't lie.
