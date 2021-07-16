@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test"
+title:  "Test 💡"
 permalink: /testtt/
 ---
 
