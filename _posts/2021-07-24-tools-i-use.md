@@ -5,9 +5,9 @@ excerpt: Here's a collection of the software that I use almost on a daily basis
 
 # Tools I Use
 
-I'm a builder and a creator so I try to be platform independednt as possible. 
+I am a builder and a creator so I try to be platform independent as possible. 
 
-I'm currently using Manajaro Linux for both work and personal use. I have previously used Ubuntu & Windows, I have not actively used MacOS. I have used so many softwares, sites and services over the years but often I forget which ones worked for me. I'll now log it all here..
+I am currently using Manjaro Linux for both work and personal use. I have previously used Ubuntu, Windows and I would love to try out various operating systems for both hobby and work purposes. I have used so many softwares, sites and services over the years but often I forget which ones worked for me. I'll now log it all here..
 
 Here's a collection of the software that I use almost on a daily basis. 
 
