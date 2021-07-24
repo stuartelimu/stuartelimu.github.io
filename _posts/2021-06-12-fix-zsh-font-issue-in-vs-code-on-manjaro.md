@@ -20,10 +20,11 @@ In the Preferences window, I clicked the 'manjaro' profile and there it was, the
 ![Screenshot from 2021-07-06 18-06-18](https://user-images.githubusercontent.com/41069456/124642390-77b9e980-de98-11eb-9e8e-8a66451807ae.png)
 
 
-I love using keyboard shortcuts so I opened User Settings by Pressing CTRL + Shift + P then typing settings,
+I love using keyboard shortcuts, 
+I will open `User Settings` by pressing `CTRL + Shift + P` then typing `settings`, select `User Settings` from the dropdown menu.
 
-I then search for `integrated terminal` settings and scroll down to `Font Family` section, then paste my copied font family.
+Using the search bar on the settings page, type `integrated terminal` and scroll down to `Font Family` section, then paste my copied font family; in my case it was `NotoSansMono Nerd Font`
 
-Once done, when I opened my integrated terminal everything looked just great.
+Open the integrated terminal using CMD + P. the font issue should be fixed now.
 
 ![Screenshot from 2021-07-06 18-17-17](https://user-images.githubusercontent.com/41069456/124626401-4f75bf00-de87-11eb-9091-73c567edea49.png)
