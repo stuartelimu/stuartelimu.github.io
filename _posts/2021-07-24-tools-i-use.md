@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: Here's a collection of the software that I use almost on a daily basis
 ---
 
 # Tools I Use
