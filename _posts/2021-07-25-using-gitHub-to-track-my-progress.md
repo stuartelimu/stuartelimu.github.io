@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# Using GitHub to track my progress
+# Using GitHub To Track My Progress
 
 ![image](https://user-images.githubusercontent.com/41069456/126903197-298fa4d5-48f3-4638-a448-a15bc2044d1b.png)
 
