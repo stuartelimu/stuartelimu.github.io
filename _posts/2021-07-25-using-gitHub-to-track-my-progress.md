@@ -7,11 +7,7 @@ layout: post
 ![image](https://user-images.githubusercontent.com/41069456/126903197-298fa4d5-48f3-4638-a448-a15bc2044d1b.png)
 
 
-When I started using GitHub I didn’t know most of the features that were involved 
-
-I was focused on learning how to store my code online and access it anywhere 
-
-With time I got to learn contributions were recorded for your progress I liked this 
+When I started using GitHub I didn’t know most of the features that were involved. I was focused on learning how to store my code online and access it anywhere. With time I got to learn how to make contributions, create issues and discussions. All these activities are recorded on a contribution graph which looks like the one above. You can see how github calculates the contribution here.
 
 I like to keep a record of how much progress I’ve made in this case learning 
 
