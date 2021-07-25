@@ -4,6 +4,9 @@ layout: post
 
 # Using GitHub to track my progress
 
+![image](https://user-images.githubusercontent.com/41069456/126903197-298fa4d5-48f3-4638-a448-a15bc2044d1b.png)
+
+
 When I started using GitHub I didn’t know most of the features that were involved 
 
 I was focused on learning how to store my code online and access it anywhere 
