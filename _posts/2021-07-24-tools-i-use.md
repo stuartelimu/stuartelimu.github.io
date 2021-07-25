@@ -14,3 +14,5 @@ Here's a collection of the software that I use almost on a daily basis.
 - Manjaro Linux
 - Cozy
 - Notion
+- Firefox
+- Chromium
