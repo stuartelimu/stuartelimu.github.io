@@ -16,3 +16,7 @@ Here's a collection of the software that I use almost on a daily basis.
 - Notion
 - Firefox
 - Chromium
+
+Bible Audio Player
+- [Bible Gateway](https://www.biblegateway.com/audio/mclean/niv/Rev.22.5)
+- Bible.is
