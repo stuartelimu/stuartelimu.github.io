@@ -5,6 +5,9 @@ excerpt: This is my dream role
 ---
 
 # Head of Research & Technology
+```
+💡 This is my dream role
+```
 I’m currently the lead developer at Ad-iloits. 
 
 I’m doing a Bsc in AI & ML with an ADSE in Software Engineering. I love what I do in addition I’m interested in maths , science, psychology, law, space among other things. 
