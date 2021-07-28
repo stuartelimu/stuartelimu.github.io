@@ -7,7 +7,7 @@ excerpt: It's 2021 and I'm tired of all the fancy stuff...
 
 > It's 2021 and I'm tired of all the fancy stuff...
 
-I have my website at [stuartelimu.me]() which runs on ghost. I also modified the ghost theme to my own whihc you can fork and use if you don't mind. 
+I have my website at [stuartelimu.me](https://stuartelimu.herokuapp.com/) which runs on ghost. I also modified the ghost theme to my own whihc you can fork and use if you don't mind. 
 I really love ghost, it comes with a rich editor which I can use to write  using markdown ( which is my favorite ) and notion like editor.
 
 Unfortunately, I always have to log in to write and edit my post, it doesn't seem like an overhead but after publishing over 8 posts and my domain being deactivated. i stopped writing and my goal for a post each week last year was crushed.
