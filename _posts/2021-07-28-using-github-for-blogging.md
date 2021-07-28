@@ -14,7 +14,7 @@ Unfortunately, I always have to log in to write and edit my post, it doesn't see
 
 ### Jekyll: A second chance 
 
-I spend a lot of time on github especially the terminal and web interface. Github has github pages as well as a special repo which you can use to host your site.
+I spend a lot of time on github especially the terminal and web interface. Github has [github pages](https://pages.github.com/) as well as a special repo which you can use to host your site.
 
 When I first tried out this feature, I was going throguh github class room until I found jekyll. I did read about it and unfortunately I was required to install ruby and run all these build commands etc I really wasn't into any of that and so I left only one page and dropped the whole idea.
 
