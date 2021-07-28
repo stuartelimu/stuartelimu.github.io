@@ -5,7 +5,7 @@ excerpt: It's 2021 and I'm tired of all the fancy stuff...
 
 # Using Github for Blogging
 
-> *It's 2021 and I'm tired of all the fancy stuff...*
+> It's 2021 and I'm tired of all the fancy stuff...
 
 I have my website at [stuartelimu.me]() which runs on ghost. I also modified the ghost theme to my own whihc you can fork and use if you don't mind. 
 I really love ghost, it comes with a rich editor which I can use to write  using markdown ( which is my favorite ) and notion like editor.
