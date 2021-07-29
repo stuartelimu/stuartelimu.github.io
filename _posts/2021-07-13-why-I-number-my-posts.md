@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: I've currently written {{ site.posts | size }} articles.
+
 ---
 
 # Why I number my posts.
