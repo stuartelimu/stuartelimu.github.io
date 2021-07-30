@@ -12,3 +12,5 @@ Password: **********
 Password (again): **********
 Superuser created successfully.
 ```
+
+I originally wrote this as a gist and used [gist.io](https://gist.io/) to [publish it](https://gist.io/@stuartelimu/53258c427310bdfce430deac39971e93). It's a really nice utility
