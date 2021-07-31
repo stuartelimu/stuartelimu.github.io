@@ -14,3 +14,8 @@ I had never thought about this until I read about it on an article. Fake emails 
 
 ### Get a second brain.
 I used to use bookmakrs and I spend a lot of time exploring the internet and often come across some great gimis. The brain is not where to keep stuff. Use apps to keep this informationfor when you might need it. I use slack which has the great way to message myself and help me keep my stuff.
+
+### Make friends who are better than you
+I often talk to my friend Marshud. I met him a couple of years back when I literraly didn't know what Linux was, I learned a lot from him over the years. I often get his ideas on a new project, tool or something in that line. It has hellped me grow. I don't realy know how I would have turned out; This is a steroid I can't leave out. 
+
+Usually this may not be as easy for introverts but I know you can do it 🦾
