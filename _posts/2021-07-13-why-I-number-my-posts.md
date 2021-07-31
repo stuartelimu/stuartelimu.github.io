@@ -19,4 +19,4 @@ I am numbering all my posts as a way of tracking my progress with the most recen
 
 I personally visit my blog a lot to go through my articles and it gives me chills when the numbers are adding up. I love it, I love the progress I have made.
 
-> Numbers don't lie.
+> 💡 Numbers don't lie.
