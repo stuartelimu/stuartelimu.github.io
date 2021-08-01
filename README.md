@@ -1,5 +1,5 @@
 ---
-description: Wikipedia
+title: Wikipedia
 permalink: wiki/stuartelimu
 ---
 
