@@ -1,5 +1,6 @@
 ---
-title: Wiki
+title: Stuart Elimu
+description: Wikipedia
 permalink: readme
 ---
 
