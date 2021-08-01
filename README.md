@@ -1,6 +1,6 @@
 ---
 title: Wiki
-permalink: wiki
+permalink: readme
 ---
 
 # stuartelimu.github.io
