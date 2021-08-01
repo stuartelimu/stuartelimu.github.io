@@ -1,6 +1,6 @@
 ---
-title: Hello, world!
-permalink: README
+title: Wiki
+permalink: wiki
 ---
 
 # stuartelimu.github.io
