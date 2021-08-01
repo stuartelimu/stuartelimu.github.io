@@ -1,8 +1,8 @@
 ---
-title: Stuart Elimu
+title: Stue
 description: Wikipedia
-permalink: readme
+permalink: wiki/stuartelimu
 ---
 
-# stuartelimu.github.io
+# stuartelimu
 
