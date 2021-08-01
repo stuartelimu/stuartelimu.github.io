@@ -4,5 +4,5 @@ description: Wikipedia
 permalink: wiki/stuartelimu
 ---
 
-# stuartelimu
+# Stuart Elimu
 
