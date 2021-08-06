@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello world"
+title: "Hello, world!"
 date: 2020-01-21
 categories: 
 ---
