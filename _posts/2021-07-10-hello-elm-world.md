@@ -18,3 +18,5 @@ Run the following command from the terminal to view the message
 ```
 elm reactor
 ```
+
+> 💡 I came across [this](https://elmprogramming.com/) wonderful resource on elm programming.
