@@ -23,3 +23,6 @@ Bible Audio Player
 
 Audio books
 - [Audiobookcup](https://www.audiobookcup.com/)
+
+Streaming
+- [Flixtor](https://flixtor.to) ( no registration required )
