@@ -11,6 +11,7 @@
 6. [The Lean Startup by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 7. [Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 8. [Getting Things Done by David Allen]()
+9. [Everything You Want by Derek Sivers]()
 
 
 ## 2020
