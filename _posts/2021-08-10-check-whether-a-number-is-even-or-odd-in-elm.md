@@ -11,6 +11,7 @@ Since this is a simple program, I will be using `elm repl`
 Open your terminal and type `elm repl`
 
 You should see the elm prompt.
+![](/assets/images/Screenshot from 2021-08-13 03-14-34.png)
 
 Elm uses the modBy function to perform modular operations. In the documentation it clearly states we can use this as a shortcut to find even or odd numbers.
 
