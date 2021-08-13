@@ -25,5 +25,5 @@ We define a variable number, then pass it to modBy as well as an integer 2. Even
 
 We can exit the elm repl ny typing `:exit`
 
-![](/assets/images/Screenshot from 2021-08-13 03-23-11.png)
+![Screenshot from 2021-08-13 03-23-11](/assets/images/Screenshot from 2021-08-13 03-23-11.png)
 
