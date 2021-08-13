@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# Check whether a number is even or odd in Elm
+# Check Whether A Number Is Even Or Odd In Elm
 
 In this article I will be covering Elm basics using a simple program which checks whether a given number is even or odd.
 
