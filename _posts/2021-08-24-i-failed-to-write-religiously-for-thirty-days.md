@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# I failed to write religiously for 30 days 
+# I Failed To Write Religiously For Thirty Days.
 
 Here’s what I learned 
 I broke my routine; I signed out of GitHub 🥺
