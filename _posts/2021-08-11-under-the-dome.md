@@ -19,3 +19,7 @@ Default First Page
 A crash course on template engine
 
 Configuration
+
+## Newsletter
+
+I have created a simple newsletter using convertkit to share some of my thoughts with my audience.
