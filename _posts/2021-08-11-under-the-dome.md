@@ -5,7 +5,7 @@ excerpt: Unmasking Source Code
 
 # Under The Dome
 
-I liettary hacked together this site and I believe a long the way I may not remember everything. 
+I literaly hacked together this site and I believe a long the way I may not remember everything. 
 I am writing this to document all the steps a long the way
 
 ## Customizing the header
