@@ -18,6 +18,7 @@ I have been reading actively since 2019 and I wanted to educate myself about fin
 11. [Make Your Bed by William H. McRaven]()
 12. [The Compound Effect by Darren Hardy]()
 13. [The Alchemist by Paulo Coelho]()
+14. [Lying by Sam Harris]()
 
 
 ## 2020
