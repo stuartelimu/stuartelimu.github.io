@@ -11,3 +11,5 @@ A really crazy way to documnent my mac os journey
 ### changing font
 
 ### key bindings
+
+### click to minimize
