@@ -13,3 +13,7 @@ A really crazy way to documnent my mac os journey
 ### key bindings
 
 ### click to minimize
+
+### battery percentage
+
+settings > dock & menu bar > battery ( menu bar ) > check the boxes
