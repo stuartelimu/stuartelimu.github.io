@@ -29,7 +29,7 @@ I created a simple open source [web application](https://vaccination-centers.her
 
 I really appreciate [Stephen S. Musoke](https://twitter.com/ssmusoke)  for sticking out for me and some advice here and there and to all the contributors much appreciate. 
 
-Crazy how everything gets, I woke up to so many notifications and I can't thank everyone enough. Uganda to the wo
+Crazy how everything gets, I woke up to so many notifications and I can't thank everyone enough. Uganda to the world
 
 [Ugin on Twitter: "Open source you say, where can one view the codes from? / Twitter"](https://twitter.com/uginm102/status/1438101960465559562)
 
