@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: How To Pronounce Stue
 ---
 
 # How To Pronounce Stue
