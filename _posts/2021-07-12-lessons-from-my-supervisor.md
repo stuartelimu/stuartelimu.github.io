@@ -4,17 +4,16 @@ excerpt: This is a story about John, the lessons I’ve learned and why it’s i
 ---
 
 
-# ![](/assets/images/rijksmuseum.jpg)
-
 # Lessons From My Supervisor
+
+![](/assets/images/rijksmuseum.jpg)
+
 
 A couple of months ago I was privileged to be brought on to a team of really smart lads. I was the youngest and at a point I wondered what I was doing there but it was an exciting one to be involved in and I really appreciate Jane for bringing me on board.
 
-<aside>
 
-  > 💡 You’re the IT guy, John will be your supervisor — Jane
+> 💡 You’re the IT guy, John will be your supervisor — Jane
 
-</aside>
 
 I had met John only once before and we had a great conversation about software development in general. He had been around the world and done so many professions. He seemed like a cool guy to work with but I’d never had a supervisor whatsoever so I couldn't really tell.
 
