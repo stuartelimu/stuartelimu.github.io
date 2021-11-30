@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: This is a story about John, the lessons I’ve learned and why it’s important to have a supervisor in your career.
 ---
 
 # Lessons From My Supervisor
@@ -72,7 +73,7 @@ I would walk back home and question myself whether I could do better to handle s
 
 John would go about his business over the weekends. There was a construction project he was doing, this one time he came back tired more than usual. He explained that said the engineers didn't show up that weekend so he got his hands dirty since the work had to be completed. It seemed like tedious work judging by how he was speaking but he managed to finish the work and save his cash. This brings me back to being knowledgeable and knowing various fields.
 
-When NASA landed a robot on mars, John got so disturbed that we couldn't even create a simple plane to fly from one place to another. Yo[u](http://another.You) could see the disappointment on his face. We are so many bright minds but we are not able to come up with some basic automobiles. 
+When NASA landed a robot on mars, John got so disturbed that we couldn't even create a simple plane to fly from one place to another. You could see the disappointment on his face. We are so many bright minds but we are not able to come up with some basic automobiles. 
 
 Later that evening he sent me a video of teenagers who made a plane that flew to from SA to Cairo. In my head I believe he was asking, whats so special that you cannot do. it is unacceptable 
 
