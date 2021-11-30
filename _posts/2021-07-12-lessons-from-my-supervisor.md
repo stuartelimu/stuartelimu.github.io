@@ -9,7 +9,8 @@ layout: post
 A couple of months ago I was privileged to be brought on to a team of really smart lads. I was the youngest and at a point I wondered what I was doing there but it was an exciting one to be involved in and I really appreciate Jane for bringing me on board.
 
 <aside>
-💡 **You’re the IT guy, John will be your supervisor** — *Jane said.*
+
+  > 💡 *You’re the IT guy, John will be your supervisor* — **Jane**
 
 </aside>
 
