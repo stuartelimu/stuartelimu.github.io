@@ -4,7 +4,7 @@ excerpt: This is a story about John, the lessons I’ve learned and why it’s i
 ---
 
 
-![](/assets/images/rijksmuseum.jpg)
+# ![](/assets/images/rijksmuseum.jpg)
 
 # Lessons From My Supervisor
 
@@ -12,7 +12,7 @@ A couple of months ago I was privileged to be brought on to a team of really sma
 
 <aside>
 
-  > 💡 *You’re the IT guy, John will be your supervisor* — **Jane**
+  > 💡 You’re the IT guy, John will be your supervisor — Jane
 
 </aside>
 
