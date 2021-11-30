@@ -43,7 +43,7 @@ This was one of the unpleasant moments, I still look back to the mistakes and ma
 
 ## Be Knowledgeable 🧠
 
-John would share so many stories across various domains, he would relate to the news on BBC or on the local channel. He know a thing or two about almost everything that could come up whether it was history, science, economics, law or technology etc
+John would share so many stories across various domains, he would relate to the news on BBC or on the local channel. He knew a thing or two about almost everything that could come up whether it was history, science, economics, law or technology etc
 
 I always try to be as knowledgeable as I can such that I do not feel out of place in conversations and through all the time I spent with John I just couldn't keep up. It was really challenging but equally a great experience about how much knowledge he'd gathered over the years.
 
