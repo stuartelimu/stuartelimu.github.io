@@ -3,9 +3,10 @@ layout: post
 excerpt: This is a story about John, the lessons I’ve learned and why it’s important to have a supervisor in your career.
 ---
 
-# Lessons From My Supervisor
 
 ![](/assets/images/rijksmuseum.jpg)
+
+# Lessons From My Supervisor
 
 A couple of months ago I was privileged to be brought on to a team of really smart lads. I was the youngest and at a point I wondered what I was doing there but it was an exciting one to be involved in and I really appreciate Jane for bringing me on board.
 
