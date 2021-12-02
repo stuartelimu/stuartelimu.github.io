@@ -5,7 +5,7 @@
 I have been reading actively since 2019 and I wanted to educate myself about finances. My reading was greatly motivated by [Ali Abdal](). I prefer audiobooks than phsyical hard copy. Here is a list of every book I have read so far. 
 
 ## 2021
-1. Who Moved My Cheese? by Spencer Johnson
+1. [Who Moved My Cheese? by Spencer Johnson]()
 2. [Ben Curson]()
 3. [12 Rules of Life]()
 4. [The Magic of Thinking Big by David Schwartz]()
@@ -19,6 +19,7 @@ I have been reading actively since 2019 and I wanted to educate myself about fin
 12. [The Compound Effect by Darren Hardy]()
 13. [The Alchemist by Paulo Coelho]()
 14. [Lying by Sam Harris]()
+15. [Ego Is The Enemy by Ryan Holiday]()
 
 
 ## 2020
