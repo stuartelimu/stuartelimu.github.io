@@ -20,6 +20,7 @@ I have been reading actively since 2019 and I wanted to educate myself about fin
 13. [The Alchemist by Paulo Coelho]()
 14. [Lying by Sam Harris]()
 15. [Ego Is The Enemy by Ryan Holiday]()
+16. [How to Win Friends & Influence People by Dale Carnegie]()
 
 
 ## 2020
