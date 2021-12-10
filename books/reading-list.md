@@ -22,6 +22,7 @@ I have been reading actively since 2019 and I wanted to educate myself about fin
 15. [Ego Is The Enemy by Ryan Holiday]()
 16. [How to Win Friends & Influence People by Dale Carnegie]()
 17. [Eat That Frog by Brian Tracy]()
+18. [On the Shortness of Life - Seneca]()
 
 
 ## 2020
