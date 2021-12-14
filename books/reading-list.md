@@ -23,6 +23,7 @@ I have been reading actively since 2019 and I wanted to educate myself about fin
 16. [How to Win Friends & Influence People by Dale Carnegie]()
 17. [Eat That Frog by Brian Tracy]()
 18. [On the Shortness of Life - Seneca]()
+19. [Company of One by Paul Jarvis]()
 
 
 ## 2020
