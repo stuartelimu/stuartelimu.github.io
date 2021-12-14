@@ -3,7 +3,7 @@ layout: post
 excerpt: My version of Spotify wrapped 
 ---
 
-<img src="https://user-images.githubusercontent.com/41069456/146090305-23142f21-6996-47c7-a9a3-abb067cdc529.png" style="height:300px; width:100%" />
+<img src="https://user-images.githubusercontent.com/41069456/146090305-23142f21-6996-47c7-a9a3-abb067cdc529.png" style="height:300px; width:100%; margin-top:10px" />
 
 # Reading, Watching, Playing, Listening: 2021
 
