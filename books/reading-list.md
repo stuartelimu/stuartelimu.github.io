@@ -24,6 +24,7 @@ I have been reading actively since 2019 and I wanted to educate myself about fin
 17. [Eat That Frog by Brian Tracy]()
 18. [On the Shortness of Life - Seneca]()
 19. [Company of One by Paul Jarvis]()
+20. [The Fish That Ate the Whale: The Life and Times of America's Banana King]()
 
 
 ## 2020
