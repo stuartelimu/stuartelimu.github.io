@@ -25,6 +25,7 @@ I have been reading actively since 2019 and I wanted to educate myself about fin
 18. [On the Shortness of Life - Seneca]()
 19. [Company of One by Paul Jarvis]()
 20. [The Fish That Ate the Whale: The Life and Times of America's Banana King]()
+21. [Man's Search for Meaning by Viktor Frankl]()
 
 
 ## 2020
