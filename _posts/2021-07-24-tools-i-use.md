@@ -28,3 +28,4 @@ Audio books
 
 Streaming
 - [Flixtor](https://flixtor.to) ( no registration required )
+- [HDToday](https://hdtoday.tv/)
