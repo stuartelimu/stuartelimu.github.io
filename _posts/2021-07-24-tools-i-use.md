@@ -23,6 +23,8 @@ Bible Audio Player
 
 Audio books
 - [Audiobookcup](https://www.audiobookcup.com/)
+- [audiboi](https://audiboi.com/)
+- [thezeroavenue](https://thezeroavenue.com/)
 
 Streaming
 - [Flixtor](https://flixtor.to) ( no registration required )
