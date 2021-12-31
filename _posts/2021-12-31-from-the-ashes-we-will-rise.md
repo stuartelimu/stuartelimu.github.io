@@ -1,9 +1,7 @@
 ---
 layout: post
-excerpt: From the Ashes We Will Rise
+excerpt: A remarkable tale about what patience, agony and failure all amount to. 
 ---
-
-<img src="https://www.notion.so/images/page-cover/nasa_space_shuttle_challenger.jpg" style="height:30vh; width:100%; margin-top:10px" />
 
 # From the Ashes We Will Rise.
 
