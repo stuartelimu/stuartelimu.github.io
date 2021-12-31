@@ -40,8 +40,9 @@ Although I was having a great run at work, I lost time for my personal projects 
 I owe myself quite a lot of hours, I am in debt;
 
 <aside>
-🌟 Every cloud has a silver lining
 
+> 🌟 Every cloud has a silver lining
+> 
 </aside>
 
 I created a simple open source [web application](https://vaccination-centers.herokuapp.com/) to show vaccination centers in the country using information provided by the ministry of health as a way to make it more accessible for the
@@ -63,11 +64,13 @@ I was patient enough to live through it all which all led up to a point of excel
 You have to be willing to keep it together till the very end.
 
 ### Fun + Service 😜
-
+<!--  
 <aside>
 🥰 I felt so suffocated ‘til you came and saved me. I found a little light and a little drum started beating loudly in my chest, I could feel it. There was a voice of love without words but I could hear it.
 
+
 </aside>
+-->
 
 I enjoyed a fair share of enjoyments this year. I went to "Vegas", broke some rules and did some things I wasn't supposed to do. I made a couple of awesome people who eventually became my friends. 
 
