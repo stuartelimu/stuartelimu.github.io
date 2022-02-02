@@ -57,4 +57,6 @@ I started another [newsletter](https://www.getrevue.co/profile/stuartelimu) on r
 
 I’ve accumulated over 220+ push ups over the past couple of days in a quest to get healthier.
 
+---
+
 Well, it’s a wrap. I am curious about what you have been reading, watching, playing and listening. You can reach [out](https://twitter.com/stuartelimu) and share or discuss anything that was of interest to you.
