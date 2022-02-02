@@ -53,7 +53,7 @@ My goal this year is to read 30+ books including books from African authors.
 
 ### Miscellaneous 🤠
 
-I started another newsletter on revue which is visible on my Twitter profile. I believe this will make it easier for my audience to find my content since I’m big time on Twitter. 
+I started another [newsletter](https://www.getrevue.co/profile/stuartelimu) on revue which is visible on my Twitter profile. I believe this will make it easier for my audience to find my content since I’m big time on Twitter. 
 
 I’ve accumulated over 220+ push ups over the past couple of days in a quest to get healthier.
 
