@@ -29,3 +29,5 @@ Bible Audio Player
 Streaming
 - [Flixtor](https://flixtor.to) ( no registration required )
 - [HDToday](https://hdtoday.tv/)
+
+Read articles with no firewall [here](http://trimread.org/)
