@@ -1,9 +1,8 @@
 ---
 layout: post
 date: 2022-08-30
+title: August Reads
 ---
-
-# August Reads
 
 I read over 10 articles in the month of august I figured I’d have my own bookmarks section to always refer to 
 
