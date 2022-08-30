@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2022-08-30
 ---
 
 # August Reads
