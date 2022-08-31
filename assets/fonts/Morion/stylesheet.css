@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Morion';
+    src: url('Morion-Bold.eot');
+    src: local('Morion Bold'), local('Morion-Bold'),
+        url('Morion-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Morion-Bold.woff2') format('woff2'),
+        url('Morion-Bold.woff') format('woff'),
+        url('Morion-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
