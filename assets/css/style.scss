@@ -3,3 +3,8 @@
 
 @import "{{ site.theme }}";
 
+@import url("fonts/Morion/stylesheet.css");
+
+body {
+  font-family: Morion,Georgia,serif;
+}
