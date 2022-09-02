@@ -23,12 +23,13 @@ body {
 }
 
 .logo {
-  flex: 0 0 120px;
+  flex: 0 0 auto;
   text-align: center;
 }
 
 .nav-item {
   flex: 0 0 auto;
+  align-self: center;
 }
 
 .logo,
