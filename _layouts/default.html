@@ -17,9 +17,9 @@
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
-  <body>
+  <body class="container-lg px-3">
 
-    <header class="container-lg nav-header flex sticky-top">
+    <header class="nav-header flex sticky-top">
       <span class="logo">
         <a href="/">
           Stue's Brain 
@@ -35,7 +35,7 @@
       </nav>
     </header>
 
-    <div class="container-lg px-3 markdown-body"> 
+    <div class="markdown-body"> 
       
       
       {% if site.title and site.title == page.title %}

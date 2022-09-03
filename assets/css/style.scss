@@ -24,19 +24,27 @@
 
 .logo {
   flex: 0 0 auto;
-  text-align: center;
   align-self: center;
+  padding: 12px 12px 12px 0;
+
 }
 
 .nav-item {
   flex: 0 0 auto;
   align-self: center;
+  padding: 12px;
+
 }
 
 .logo,
 .nav-item {
   font-size: 16px;
-  padding: 12px;
 }
 
+.sticky-top {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index: 1020;
+}
 
