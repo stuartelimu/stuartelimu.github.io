@@ -15,8 +15,23 @@
 
     
     {% seo %}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
+
+    <style>
+      .jk-content {
+        position: relative;
+      }
+
+      .gh-toc > .toc-list {
+        position: relative;
+      }
+
+      .toc-list {
+        overflow: hidden;
+        list-style: none;
+      }
+    </style>
   </head>
   <body class="container-lg px-3">
 
@@ -80,7 +95,7 @@
             // Where to render the table of contents.
             tocSelector: '.gh-toc',
             // Where to grab the headings to build the table of contents.
-            contentSelector: '.markdown-body',
+            contentSelector: '.jk-content',
             // Which headings to grab inside of the contentSelector element.
             headingSelector: 'h1, h2, h3, h4',
         });
