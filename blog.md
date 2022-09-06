@@ -15,7 +15,8 @@ permalink: /blog/
 </ol>
 
       
-      <!-- revue -->
+<!-- revue -->
+
 <!-- 
   <div id="revue-embed">
     <form action="https://www.getrevue.co/profile/stuartelimu/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
