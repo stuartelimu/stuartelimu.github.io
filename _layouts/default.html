@@ -15,6 +15,7 @@
 
     
     {% seo %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body class="container-lg px-3">
@@ -72,6 +73,18 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.3/tocbot.min.js"></script>
+    <!-- Initialize Tocbot after you load the script -->
+    <script>
+        tocbot.init({
+            // Where to render the table of contents.
+            tocSelector: '.gh-toc',
+            // Where to grab the headings to build the table of contents.
+            contentSelector: '.gh-content',
+            // Which headings to grab inside of the contentSelector element.
+            headingSelector: 'h1, h2, h3, h4',
+        });
+    </script>
     
     
   </body>
