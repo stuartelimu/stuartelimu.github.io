@@ -26,7 +26,7 @@
 
       .gh-toc > .toc-list {
         position: relative;
-        padding-left: 0;
+        padding-left: 10px;
       }
 
       .toc-list {
@@ -100,6 +100,8 @@
             contentSelector: '.post-body-content',
             // Which headings to grab inside of the contentSelector element.
             headingSelector: 'h3,h4',
+            // For headings inside relative or absolute positioned containers within content.
+            hasInnerContainers: true,
         });
     </script>
     
