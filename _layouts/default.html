@@ -16,11 +16,11 @@
     </script>
     
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
     <style>
-      .jk-content {
+      .post-body-content {
         position: relative;
       }
 
@@ -96,9 +96,9 @@
             // Where to render the table of contents.
             tocSelector: '.gh-toc',
             // Where to grab the headings to build the table of contents.
-            contentSelector: '.jk-content',
+            contentSelector: '.post-body-content',
             // Which headings to grab inside of the contentSelector element.
-            headingSelector: 'h1, h2, h3, h4',
+            headingSelector: 'h3,h4',
         });
     </script>
     

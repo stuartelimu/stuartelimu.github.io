@@ -52,3 +52,21 @@
 	z-index: 1020;
 }
 
+// styles for table of contents
+.post-body {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+@media (min-width: 600px) {
+  .post-body {
+    flex-direction: row;
+  }
+
+  .gh-sidebar {
+    align-self: flex-start;
+    top: 50px; 
+    position: sticky;
+    margin-left: 32px;
+  }
+}
