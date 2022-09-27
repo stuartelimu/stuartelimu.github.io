@@ -1,8 +1,12 @@
 # Reading List
 
-> I am currently reading: [Sprint]()
+> I am currently reading: [Grit]()
 
 I have been reading actively since 2019 and I wanted to educate myself about finances. My reading was greatly motivated by [Ali Abdal](). I prefer audiobooks than phsyical hard copy. Here is a list of every book I have read so far. 
+## 2022
+1. [Grit]()
+2. [Finding Me]()
+3. [Sprint]()
 
 ## 2021
 1. [Who Moved My Cheese? by Spencer Johnson]()
