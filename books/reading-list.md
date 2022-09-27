@@ -9,6 +9,7 @@ I have been reading actively since 2019 and I wanted to educate myself about fin
 2. [Grit]()
 3. [Finding Me]()
 4. [Sprint]()
+5. [The Hard Thing About Hard Things]()
 
 ## 2021
 1. [Who Moved My Cheese? by Spencer Johnson]()
