@@ -56,8 +56,8 @@
     <div class="markdown-body"> 
       
       
-      {% if site.title and site.title == page.title %}
-      <h1>{{ site.description }}</h1>
+      {% if site.title and site.title != page.title %}
+      <h1>{{ site.title }}</h1>
       {% endif %}
       
       {{ content }}
