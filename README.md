@@ -8,7 +8,7 @@ permalink: wiki/stuartelimu
 
 Hi, I’m [stue](). I am a lead software engineer, techie and [content creator](). 
 
-Currently, I am working on [@KOPSPN](), [Find My Rotary](), among [others](/work). 
+Currently, I am working on [@KOPSPN](), [Find My Rotary](), among many other [projects](/work). 
 
 Along the way, I am trying to start a couple of [businesses]() in a bid to live a better life and leave an inheritance for my children’s grandchildren. 
 
