@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Home
+title: Stuart Elimu
 ---
-
-# Stuart Elimu
 
 Hi, I’m [stue](). I am a lead software engineer, techie and [content creator](). 
 
