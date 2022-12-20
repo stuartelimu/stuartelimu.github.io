@@ -16,5 +16,7 @@ I love to listen to audiobooks, travel and consume a lot of content during my fr
 
 You can checkout every single article that I have written on my [blog](/blog) cutting across various topics that I am curious about.
 
+<script async data-uid="3df2bee2cc" src="https://wondrous-speaker-8686.ck.page/3df2bee2cc/index.js"></script>
+
 <div class="mb-2"></div>
 
