@@ -9,6 +9,12 @@
 //   font-family: 'Morion',Georgia,serif;
 // }
 
+.justify-content-between {
+  -webkit-box-pack: justify !important;
+  -ms-flex-pack: justify !important;
+  justify-content: space-between !important;
+}
+
 .nav-header {
   background-color: #fff;
 }
