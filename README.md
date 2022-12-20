@@ -8,15 +8,11 @@ permalink: wiki/stuartelimu
 
 Hi, I’m [stue](). I am a lead software engineer, techie and [content creator](). 
 
-Currently, I am working on [@KOPSPN](), [Find My Rotary](), among many other [projects](/work). 
+I'm currently working on a number of [projects](/work), such as [@KOPSPN]() and [Find My Rotary](), in an effort to improve my quality of life, leave something for the future grandkids of my children, while also having fun and making a positive impact on the world 🌍
 
-Along the way, I am trying to start a couple of [businesses]() in a bid to live a better life and leave an inheritance for my children’s grandchildren. 
+I love writing about technology, cars and everything that I am learning. You can read every single article I've ever written on my [blog](/blog), which covers a wide range of subjects that interest me. 
 
-I love to listen to audiobooks, travel and consume a lot of content during my free time. 
-
-You can checkout every single article that I have written on my [blog](/blog) cutting across various topics that I am curious about.
-
-I run an online newsletter called [Inside Stue's Brain](/newsletter) where I share everything useful and noteworthy that I have come across in my various expeditions. Feel free to signup using the form below to receive new editions once they're published.
+In addition, I publish [Inside Stue's Brain](/newsletter), a newsletter on the internet, where I discuss everything interesting and helpful I find throughout my time on the internet. Please feel free to sign up using the form below to receive new editions as soon as they are released. 
 
 <script async data-uid="3df2bee2cc" src="https://wondrous-speaker-8686.ck.page/3df2bee2cc/index.js"></script>
 
