@@ -58,6 +58,11 @@
 	z-index: 1020;
 }
 
+.footer {
+  position:fixed;
+  bottom: 0;
+}
+
 // styles for table of contents
 .post-body {
   display: flex;
