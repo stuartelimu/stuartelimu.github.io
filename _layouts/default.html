@@ -47,7 +47,7 @@
 
       <nav class="scroll">
         <span class="nav-item"><a href="/blog">Blog</a></span>
-        <span class="nav-item"><a href="/books/reading-list">Reading</a></span>
+        <span class="nav-item"><a href="/books/reading">Reading</a></span>
         <span class="nav-item"><a href="/work">Work</a></span>
         <span class="nav-item"><a href="https://youtu.be/hBazaBtqxnI">YouTube</a></span>
       </nav>
@@ -56,7 +56,7 @@
     <div class="markdown-body"> 
       
       
-      {% if site.title and site.title != page.title %}
+      {% if site.title and site.title == page.title %}
       <h1>{{ site.title }}</h1>
       {% endif %}
       
