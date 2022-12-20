@@ -2,7 +2,7 @@
 
 > I am currently reading: [Grit]()
 
-I have been reading actively since 2019 and I wanted to educate myself about finances. My reading was greatly motivated by [Ali Abdal](). I prefer audiobooks than phsyical hard copy. Here is a list of every book I have read so far. 
+I have been actively reading since 2019 while I was trying to educate myself about wealth and finances. My reading was greatly motivated by [Ali Abdaal](https://aliabdaal.com/). I prefer listening to audiobooks to reading physical books. Here is a list of every book I have read so far. 
 
 ## 2022
 1. [When Breath Becomes Air]()
