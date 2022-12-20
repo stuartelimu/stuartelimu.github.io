@@ -1,4 +1,4 @@
-# Reading List
+# Reading
 
 > I am currently reading: [Grit]()
 
