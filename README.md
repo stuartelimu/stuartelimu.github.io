@@ -16,7 +16,7 @@ I love to listen to audiobooks, travel and consume a lot of content during my fr
 
 You can checkout every single article that I have written on my [blog](/blog) cutting across various topics that I am curious about.
 
-I run an online newsletter called [Inside Stue's Brain]() where I share everything useful and noteworthy that I have come across in my various expeditions. Feel free to signup using the form below.
+I run an online newsletter called [Inside Stue's Brain](/newsletter) where I share everything useful and noteworthy that I have come across in my various expeditions. Feel free to signup using the form below to receive new editions once they're published.
 
 <script async data-uid="3df2bee2cc" src="https://wondrous-speaker-8686.ck.page/3df2bee2cc/index.js"></script>
 
