@@ -1,17 +1,18 @@
 # Reading
 
-> I am currently reading: [Grit]()
+> I am currently reading: [REWORK]()
 
 I have been actively reading since 2019 while I was trying to educate myself about wealth and finances. My reading was greatly motivated by [Ali Abdaal](https://aliabdaal.com/). I prefer listening to audiobooks to reading physical books. Here is a list of every book I have read so far. 
 
-## 2022
+### 2022
 1. [When Breath Becomes Air]()
 2. [Grit]()
 3. [Finding Me]()
 4. [Sprint]()
 5. [The Hard Thing About Hard Things]()
+6. [REWORK](https://37signals.com/books/#rework)
 
-## 2021
+### 2021
 1. [Who Moved My Cheese? by Spencer Johnson]()
 2. [Ben Curson]()
 3. [12 Rules of Life]()
@@ -35,7 +36,7 @@ I have been actively reading since 2019 while I was trying to educate myself abo
 21. [Man's Search for Meaning by Viktor Frankl]()
 
 
-## 2020
+### 2020
 1. Rich Dad Poor Dad
 2. Shoe Dog
 3. Elon Musk
