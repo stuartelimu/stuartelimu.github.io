@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Stuart Elimu
+# Inside Stue's Brain - Decoding Stuart Elimu
 
 <ol>
   {% for post in site.posts %}
