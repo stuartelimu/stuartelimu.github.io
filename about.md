@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-# Stuart Elimu
+# About
 
 Hi, I’m [stue](). I am a lead software engineer, techie and [content creator](). 
 
