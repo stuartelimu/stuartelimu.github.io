@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Hi, I’m [stue](). I am a lead software engineer, techie and [content creator](). 
+Hi, I’m <a title="Stuart Elimu" href="/">stue</a>. I am a lead software engineer, techie and [content creator](). 
 
 I'm currently working on a number of [projects](/work), such as [@KOPSPN]() and [Find My Rotary](), in an effort to improve my quality of life, leave something for the future grandkids of my children, while also having fun and making a positive impact on the world 🌍
 
