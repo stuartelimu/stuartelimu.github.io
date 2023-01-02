@@ -111,7 +111,7 @@
 .post-list .card-title::before {
   counter-increment: step-counter;
   content: counter(step-counter, decimal-leading-zero);
-	margin-right: 4px;
+	margin-right: 8px;
 }
 
 .post-list p {
