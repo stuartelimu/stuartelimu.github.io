@@ -8,10 +8,10 @@ permalink: /blog/
 
 <div class="card border">
   <div style="display: flex; align-items: center; flex-wrap: wrap">
-    <div class="col-md-3 p-2">
+    <div class="col-md-3 p-1">
       <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
     </div>
-    <div class="col-md-9">
+    <div class="col-md-9 p-1">
       <div class="card-body">
         <h2 class="card-title">{{ site.posts[0].title }}</h2>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
