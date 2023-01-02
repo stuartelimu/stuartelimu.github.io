@@ -5,8 +5,6 @@ date: 2020-01-21
 categories: 
 ---
 
-# Hello, world!
-
 Hello, I am [Stue](/wiki/stuartelimu). This is where I share my thoughts on my life, my career and other people's career.
 
 This site is built using [jekyll]() and hosted using [Github]().
