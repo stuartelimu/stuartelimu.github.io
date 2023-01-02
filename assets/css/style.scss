@@ -90,7 +90,7 @@
 
 .post-link {
 	outline: none;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .post-link:link {
@@ -101,10 +101,11 @@
 .post-list {
 	counter-reset: step-counter;
 	list-style: none;
-	padding: 0;
+	padding-left: 0 !important;
 }
 
 .post-list .card-title::before {
   counter-increment: step-counter;
   content: counter(step-counter, decimal-leading-zero);
+	margin-right: 4px;
 }
