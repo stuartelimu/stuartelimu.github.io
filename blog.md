@@ -7,7 +7,8 @@ permalink: /blog/
 # Blog
 
 <ol class="post-list my-2">
-    {% site.posts.each_with_index do |post, index| %}
+    {% for post in site.posts %}
+    {% if post.index0 == 0 %}
     <li>
       <div class="card border">
         <div style="display: flex; align-items: center; flex-wrap: wrap">
@@ -24,7 +25,16 @@ permalink: /blog/
         </div>
       </div>
      </li>
-  {% end %}
+    {% else %}
+    <li>
+      <div class="card">
+        <div class="card-body">
+          <p class="card-title h3"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
+        </div>
+      </div>
+    </li>
+    {% endif %}
+  {% endfor %}
 </ol>
   
 <ol class="post-list my-2">
