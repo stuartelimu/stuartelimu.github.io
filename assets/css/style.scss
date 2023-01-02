@@ -93,6 +93,16 @@
   text-decoration: none;
 }
 
-post-link:link {
+.post-link:link {
   color: #000;
+}
+
+// styles for custom list
+.post-list {
+	counter-reset: section;
+}
+
+.post-list .card-title::before {
+  counter-increment: step-counter;
+  content: counter(step-counter);
 }
