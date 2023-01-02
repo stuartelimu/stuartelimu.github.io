@@ -99,7 +99,8 @@
 
 // styles for custom list
 .post-list {
-	counter-reset: section;
+	counter-reset: step-counter;
+	list-style: none;
 }
 
 .post-list .card-title::before {
