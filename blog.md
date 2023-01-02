@@ -25,9 +25,8 @@ permalink: /blog/
   {% for post in site.posts %}
     <li>
       <div class="card p-2">
-        <div class="card-body border-bottom">
+        <div class="card-body">
           <p class="card-title h3"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
-          <small class="text-muted">{{ post.date | date: "%-d %B %Y" }}</small>
         </div>
       </div>
     </li>
