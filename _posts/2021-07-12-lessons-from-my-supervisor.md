@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: featured
 excerpt: This is a story about John, the lessons I’ve learned and why it’s important to have a supervisor in your career.
 ---
 
