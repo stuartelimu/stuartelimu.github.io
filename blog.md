@@ -6,21 +6,27 @@ permalink: /blog/
 
 # Blog
 
-<div class="card border">
-  <div style="display: flex; align-items: center; flex-wrap: wrap">
-    <div class="col-md-3 p-2">
-      <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
-    </div>
-    <div class="col-md-9 px-2">
-      <div class="card-body">
-        <p class="card-title h2">{{ site.posts[0].title }}</p>
-        <p class="card-text">{{ site.posts[0].excerpt }}</p>
-        <p class="card-text"><small class="text-muted">{{ site.posts[0].date | date: "%-d %B %Y" }}</small></p>
+<ol class="post-list my-2">
+    {% site.posts.each_with_index do |post, index| %}
+    <li>
+      <div class="card border">
+        <div style="display: flex; align-items: center; flex-wrap: wrap">
+          <div class="col-md-3 p-2">
+            <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
+          </div>
+          <div class="col-md-9 px-2">
+            <div class="card-body">
+              <p class="card-title h2">{{ post.title }}</p>
+              <p class="card-text">{{ post.excerpt }}</p>
+              <p class="card-text"><small class="text-muted">{{ post.date | date: "%-d %B %Y" }}</small></p>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</div>
-
+     </li>
+  {% end %}
+</ol>
+  
 <ol class="post-list my-2">
   {% for post in site.posts %}
     <li>
