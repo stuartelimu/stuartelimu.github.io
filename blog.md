@@ -13,7 +13,7 @@ permalink: /blog/
     </div>
     <div class="col-md-9 p-2">
       <div class="card-body">
-        <h2 class="card-title">{{ site.posts[0].title }}</h2>
+        <p class="card-title h2">{{ site.posts[0].title }}</p>
         <p class="card-text">{{ site.posts[0].excerpt }}</p>
         <p class="card-text"><small class="text-muted">{{ site.posts[0].date | date: "%-d %B %Y" }}</small></p>
       </div>
@@ -27,11 +27,8 @@ permalink: /blog/
       <div class="card p-2">
         <div class="card-body border-bottom">
           <p class="card-title h3"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
-        </div>
-        <div class="card-footer flex flex-items-end">
           <small class="text-muted">{{ post.date | date: "%-d %B %Y" }}</small>
         </div>
-
       </div>
     </li>
   {% endfor %}
