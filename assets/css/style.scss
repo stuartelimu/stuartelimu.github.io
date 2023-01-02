@@ -104,6 +104,10 @@
 	padding-left: 0 !important;
 }
 
+.post-list .card-title {
+  display: flex;
+}
+
 .post-list .card-title::before {
   counter-increment: step-counter;
   content: counter(step-counter, decimal-leading-zero);
