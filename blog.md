@@ -8,7 +8,7 @@ permalink: /blog/
 
 <ol class="post-list my-2">
     {% for post in site.posts %}
-    {% if post.index0 == 0 %}
+    {% if forloop.index0 == 0 %}
     <li>
       <div class="card border">
         <div style="display: flex; align-items: center; flex-wrap: wrap">
