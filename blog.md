@@ -8,10 +8,10 @@ permalink: /blog/
 
 <div class="card border">
   <div style="display: flex; align-items: center; flex-wrap: wrap">
-    <div class="col-md-3 p-2">
+    <div class="col-md-3 px-2">
       <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
     </div>
-    <div class="col-md-9 p-2">
+    <div class="col-md-9 px-2">
       <div class="card-body">
         <p class="card-title h2">{{ site.posts[0].title }}</p>
         <p class="card-text">{{ site.posts[0].excerpt }}</p>
@@ -24,7 +24,7 @@ permalink: /blog/
 <ol class="post-list">
   {% for post in site.posts %}
     <li>
-      <div class="card p-2">
+      <div class="card px-2">
         <div class="card-body">
           <p class="card-title h3"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
         </div>
