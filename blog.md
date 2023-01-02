@@ -15,7 +15,7 @@ permalink: /blog/
           <div class="col-md-3 p-2">
             <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
           </div>
-          <div class="col-md-9 px-2">
+          <div class="col-md-9 px-2 pb-2">
             <div class="card-body">
               <p class="card-title h2">{{ post.title }}</p>
               <p class="card-text">{{ post.excerpt }}</p>
@@ -37,26 +37,6 @@ permalink: /blog/
   {% endfor %}
 </ol>
   
-<ol class="post-list my-2">
-  {% for post in site.posts %}
-    <li>
-      <div class="card">
-        <div class="card-body">
-          <p class="card-title h3"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
-        </div>
-      </div>
-    </li>
-  {% endfor %}
-</ol>
-
-<ol class="post-list">
-  {% for post in site.posts %}
-    <li>
-      <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ol>
-
       
 <!-- revue -->
 
