@@ -109,3 +109,7 @@
   content: counter(step-counter, decimal-leading-zero);
 	margin-right: 4px;
 }
+
+.post-list p {
+	margin-bottom: 0 !important;
+}
