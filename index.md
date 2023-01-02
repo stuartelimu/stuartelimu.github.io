@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Inside Stue's Brain - Decoding Stuart Elimu
-<div class="hello">Inside Stue's Brain - Decoding Stuart Elimu</div>
+<h1 class="hello">Inside Stue's Brain - Decoding Stuart Elimu</h1>
 
 <ol>
   {% for post in site.posts %}
