@@ -26,10 +26,9 @@ permalink: /blog/
     <li>
       <div class="card p-2">
         <div class="card-body border-bottom">
-          <p class="card-title"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <p class="card-title h3"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
         </div>
-        <div class="card-footer flex flex-justify-between">
+        <div class="card-footer flex flex-items-end">
           <small class="text-muted">{{ post.date | date: "%-d %B %Y" }}</small>
         </div>
 
