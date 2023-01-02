@@ -98,22 +98,14 @@
 	
 	.hello {
 		font-weight: 600;
-		font-size: 130px;
-		line-height: 110px;
-		letter-spacing: -5px;
-		padding-right: 0px;
-	}
-}
-
-@media (min-width: 960px) {
-	.hello {
-		font-weight: 600;
 		font-size: 150px;
 		line-height: 130px;
 		letter-spacing: -5px;
 		padding-right: 0px;
 	}
 }
+
+
 
 .post-link {
 	outline: none;
