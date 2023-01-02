@@ -24,12 +24,15 @@ permalink: /blog/
 <ol class="post-list">
   {% for post in site.posts %}
     <li>
-      <div class="card border-bottom p-2">
-        <div class="card-body">
-          <h5 class="card-title"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h5>
-          <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+      <div class="card p-2">
+        <div class="card-body border-bottom">
+          <p class="card-title"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         </div>
+        <div class="card-footer flex flex-justify-between">
+          <small class="text-muted">{{ post.date | date: "%-d %B %Y" }}</small>
+        </div>
+
       </div>
     </li>
   {% endfor %}
