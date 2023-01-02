@@ -7,10 +7,14 @@ title: Home
   <span class="hello">Inside Stue's Brain - Decoding Stuart Elimu</span>
 </div>
 
-<ol>
-  {% for post in site.posts %}
+<ol class="post-list my-2">
+  {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <div class="card">
+        <div class="card-body px-2">
+          <p class="card-title h3"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
+        </div>
+      </div>
     </li>
   {% endfor %}
 </ol>
