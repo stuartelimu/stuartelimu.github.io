@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 
-# Inside Stue's Brain - Decoding Stuart Elimu
-<span class="hello">Inside Stue's Brain - Decoding Stuart Elimu</span>
+<div>
+  <span class="hello">Inside Stue's Brain - Decoding Stuart Elimu</span>
+</div>
 
 <ol>
   {% for post in site.posts %}
