@@ -8,7 +8,7 @@ permalink: /blog/
 
 <div class="card border">
   <div style="display: flex; align-items: center; flex-wrap: wrap">
-    <div class="col-md-3 pr-2">
+    <div class="col-md-3 p-2">
       <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
     </div>
     <div class="col-md-9">
