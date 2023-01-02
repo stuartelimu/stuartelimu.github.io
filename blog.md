@@ -14,7 +14,7 @@ permalink: /blog/
     <div class="col-md-9 p-2">
       <div class="card-body">
         <h2 class="card-title">{{ site.posts[0].title }}</h2>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text">{{ site.posts[0].excerpt }}</p>
         <p class="card-text"><small class="text-muted">{{ site.posts[0].date | date: "%-d %B %Y" }}</small></p>
       </div>
     </div>
