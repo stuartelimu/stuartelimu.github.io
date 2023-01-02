@@ -28,7 +28,7 @@ permalink: /blog/
     {% else %}
     <li>
       <div class="card">
-        <div class="card-body">
+        <div class="card-body px-2">
           <p class="card-title h3"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
         </div>
       </div>
