@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<div>
+<div class="py-3">
   <span class="hello">Inside Stue's Brain - Decoding Stuart Elimu</span>
 </div>
 
