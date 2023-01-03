@@ -1,6 +1,6 @@
 ---
 layout: post
-image: day-three.png
+image: /assets/images/day-three.png
 excerpt: What is the earliest memory you have?
 ---
 
