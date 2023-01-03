@@ -4,3 +4,6 @@ url: "https://stuartelimu.me/"
 favicon: https://abs-0.twimg.com/emoji/v2/svg/1f9e0.svg
 
 permalink: /:categories/:title
+
+plugins:
+  - jekyll-seo-tag
