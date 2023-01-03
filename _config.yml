@@ -5,7 +5,7 @@ favicon: https://abs-0.twimg.com/emoji/v2/svg/1f9e0.svg
 
 twitter:
   username: stuartelimu
-  card: summary
+  card: summary_large_image
 
 permalink: /:categories/:title
 
