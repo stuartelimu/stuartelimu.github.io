@@ -13,7 +13,11 @@ permalink: /blog/
       <div class="card border">
         <div style="display: flex; align-items: center; flex-wrap: wrap">
           <div class="col-md-3 p-2">
-            <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
+            {% if post.image %}
+              <img src="/assets/images/{{post.image}}" class="img-fluid rounded-1" alt="...">
+            {% else %}
+              <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
+            {% end %}
           </div>
           <div class="col-md-9 px-2 pb-2">
             <div class="card-body">
