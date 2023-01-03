@@ -14,7 +14,7 @@ permalink: /blog/
         <div style="display: flex; align-items: center; flex-wrap: wrap">
           <div class="col-md-3 p-2">
             {% if post.image %}
-              <img src={{ "/assets/images/" | append: post.image }} class="img-fluid rounded-1" alt="...">
+              <img src={{ post.image }} class="img-fluid rounded-1" alt="...">
             {% else %}
               <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
             {% endif %}
