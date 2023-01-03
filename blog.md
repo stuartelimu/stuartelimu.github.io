@@ -17,7 +17,7 @@ permalink: /blog/
               <img src="/assets/images/{{post.image}}" class="img-fluid rounded-1" alt="...">
             {% else %}
               <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
-            {% end %}
+            {% endif %}
           </div>
           <div class="col-md-9 px-2 pb-2">
             <div class="card-body">
