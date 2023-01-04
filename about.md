@@ -13,8 +13,10 @@ I love writing about technology, cars and everything that I am learning. You can
 
 In addition, I publish [Inside Stue's Brain](/newsletter), a newsletter on the internet, where I discuss everything interesting and helpful I find throughout my time on the internet. Please feel free to sign up using the form below to receive new editions as soon as they are released. 
 
-<script async data-uid="3df2bee2cc" src="https://wondrous-speaker-8686.ck.page/3df2bee2cc/index.js"></script>
-
 ### About the site
 
 I have drawn a lot of inspiration from various sites to have my own version but I also want to use this section to give credit to the work of so many creative people
+
+<script async data-uid="3df2bee2cc" src="https://wondrous-speaker-8686.ck.page/3df2bee2cc/index.js"></script>
+
+
