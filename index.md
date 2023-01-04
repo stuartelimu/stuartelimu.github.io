@@ -7,6 +7,7 @@ title: Home
   <span class="hello">Inside Stue's Brain - Decoding Stuart Elimu</span>
 </div>
 
+### Featured
 <ol class="post-list my-2">
   {% for post in site.posts limit:5 %}
     <li>
