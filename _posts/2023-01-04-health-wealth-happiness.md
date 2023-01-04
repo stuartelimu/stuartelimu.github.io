@@ -47,5 +47,5 @@ I want to be happy but I need to be wealthy and healthy as well.
 
 --- 
 
-This is everything I want to achieve this year. 
+This is everything I want to achieve this year. 🏆
 
