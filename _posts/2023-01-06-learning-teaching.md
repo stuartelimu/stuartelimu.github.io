@@ -8,7 +8,7 @@ permalink: /blog/learning-teaching
 
 Welcome to Bloganuary! I am participating in a writing challenge hosted by Wordpress. Each day in January, I will publish a new article based on a prompt provided by the team at Wordpress. You can join the challenge [here](http://wordpress.com/bloganuary).
 
-<img class="rounded-1" width="100%" alt="What is something you want to achieve this year?" src="/assets/images/day-five.jpg">
+<img class="rounded-1" width="100%" alt="What brings you joy in life?" src="/assets/images/day-five.jpg">
 
 What brings you joy in life?
 
