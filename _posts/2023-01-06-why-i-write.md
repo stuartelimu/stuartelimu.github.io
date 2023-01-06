@@ -20,7 +20,7 @@ I hope to write my memoir sometime soon and each time I write an article I am on
 
 Writing is therapeutic. I do not have a journal or anything of the sort so I treat this blog as a public journal. I dump notes on a lot of what has happened around me e.g I have a monthly series where I write about everything that I am reading, watching or listening to, among other things that are happening around me. You can read the latest edition [here](https://stuartelimu.me/december). 
 
-Writing gives me peace of mind and makes me feel better in case I'm feeling low.
+Writing gives me a peace of mind and makes me feel better in case I'm feeling low.
 
 ### Audience
 
