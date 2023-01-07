@@ -32,6 +32,7 @@
   flex-wrap: nowrap;
 }
 
+
 .logo {
   
 	display: flex;
@@ -39,13 +40,25 @@
 //   align-self: center;
 	align-items: center;
   padding: 12px 12px 12px 0;
+	text-decoration: none;
 
 }
 
-.logo div {
+.logo:active, .logo:visited {
+  text-decoration: none;
+}
+
+.logo > div {
+	width: 30px;
+	height: 30px;
+}
+
+
+.logo > span {
 	font-weight: 600;
-	font-size: 20px;
+	font-size: 25px;
 	color: #000;
+	line-height: 30px;
 }
 
 .nav-item {
