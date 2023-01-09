@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /assets/images/day-eight.svg
+image: /assets/images/day-eight.png
 excerpt: Jekyll, Listmonk & Umami 
 permalink: /blog/self-hosted-website-newsletter-and-analytics
 title: Self-Hosted Website, Newsletter & Analytics
@@ -8,7 +8,7 @@ title: Self-Hosted Website, Newsletter & Analytics
 
 Welcome to Bloganuary! I am participating in a writing challenge hosted by Wordpress. Each day in January, I will publish a new article based on a prompt provided by the team at Wordpress. You can join the challenge [here](http://wordpress.com/bloganuary).
 
-<img class="rounded-1" width="100%" alt="Self-Hosted Website, Newsletter & Analytics" src="/assets/images/day-eight.svg">
+<img class="rounded-1" width="100%" alt="Self-Hosted Website, Newsletter & Analytics" src="/assets/images/day-eight.png">
 
 I have been interested in self hosting my applications on the internet and I wanted to walk through my current setup for this website. 
 
