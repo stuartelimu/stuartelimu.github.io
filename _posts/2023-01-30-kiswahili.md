@@ -1,7 +1,7 @@
 ---
 layout: post
 image: /assets/images/day-twenty-six.jpg
-excerpt: Kiswahili 
+excerpt: What language do you wish you could speak? 
 permalink: /blog/kiswahili
 title: Kiswahili
 ---
@@ -9,8 +9,6 @@ title: Kiswahili
 Welcome to Bloganuary! I am participating in a writing challenge hosted by Wordpress. Each day in January, I will publish a new article based on a prompt provided by the team at Wordpress. You can join the challenge [here](http://wordpress.com/bloganuary).
 
 <img class="rounded-1" width="100%" alt="Kiswahili" src="/assets/images/day-twenty-six.jpg">
-
-What language do you wish you could speak?
 
 I have had a chance to travel to Kenya, Tanzania and Burundi where you find the natives speak Kiswahili. I believe this is one of the languages I wish I could speak more fluently. 
 
