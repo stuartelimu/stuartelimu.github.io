@@ -6,6 +6,7 @@ I have been actively reading since 2019 while I was trying to educate myself abo
 
 ### 2023
 1. [The Mom Test]()
+2. [What a Time to Be Alone by Chidera Eggerue]()
 
 ### 2022
 1. [When Breath Becomes Air]()
