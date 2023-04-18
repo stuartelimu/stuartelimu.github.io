@@ -1,9 +1,8 @@
 ---
 layout: post
 excerpt: Here's a collection of the software that I use almost on a daily basis
+title: Tools I Use
 ---
-
-# Tools I Use
 
 I am a builder and a creator so I try to be platform independent as possible. 
 
