@@ -6,7 +6,7 @@ title: Find My Rotary is now Fellowships
 
 <video
   controls
-  src="/assets/media/fellowships.mp4">
+  src="/assets/media/fellowships.mp4" width="100%">
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="/assets/media/fellowships.mp4">download it</a>
   and watch it with your favorite video player!
