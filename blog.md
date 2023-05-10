@@ -22,7 +22,7 @@ permalink: /blog/
           <div class="col-md-9 px-2 pb-2">
             <div class="card-body">
               <p class="card-title h2"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
-              <p class="card-text">{{ post.excerpt }}</p>
+              <p class="card-text" style="margin-right: 8px">{{ post.excerpt }}</p>
               <p class="card-text"><small class="text-muted">{{ post.date | date: "%-d %B %Y" }}</small></p>
             </div>
           </div>
