@@ -59,10 +59,12 @@ Fueling, I expect to use about 60L
 
 988 KM Kla
 
-### Perks 
+### Conclusion
+
+#### Perks 
 A road trip is somewhat like therapy, you reach a moment and it’s just you and the machine and nothing else matters 
 
-### Quarks 
+#### Quarks 
 It’s a long ride, this is somewhat the third time I’m making the trip so It doesn’t hurt like the first time but it’s undeniably tiring 
 
 ---
