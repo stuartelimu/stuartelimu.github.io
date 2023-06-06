@@ -4,6 +4,14 @@ excerpt: I am spending a couple of days in Eastern Uganda
 title: Traveling to Eastern Uganda
 ---
 
+<video
+  controls
+  src="/assets/media/eastern-ug-trip.MOV" width="100%">
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="/assets/media/eastern-ug-trip.MOV">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 I am spending a couple of days in Eastern Uganda and I want to document the entire journey and expenses that led up to the trip, this is a one way review and will make another one for the return journey. 
 
 I wanted this to be a road trip type of thing like I see on Youtube but sadly I don’t have so many pictures to show for it. Maybe next time :)
