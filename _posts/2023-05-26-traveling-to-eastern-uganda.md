@@ -42,17 +42,17 @@ The next stop was at rubis where we had a bathroom break as I prepared for the l
 
 ### Arrival 
 
-I was in mbale at 1.30 but I think I should have made it 30 minutes ealrier but we spent a really long time behind a truck that wasn’t about to shift but nonetheless we reached safe 
+I was in Mbale at 1.30 but I think I should have made it 30 minutes ealrier but we spent a really long time behind a truck that wasn’t about to shift but nonetheless we reached safe. 
 
-This place is such a beauty, about 10Km before you reach mbale you can see the beautiful hills and the great Elgon mountains 
+This place is such a beauty, about 10Km before you reach mbale you can see the beautiful hills and the great Elgon mountains. 
 
-I want to get into hiking soon and this on will be on my list 
+I want to get into hiking soon and this on will be on my list. 
 
 ### Expenses 
 
 Some of these expenses are not really related but without them I wouldn’t have made the trip. 
 
-I’m driving a twenty five year old Toyota that still somehow manages to move obviously not without frequent treks to the garage
+I am driving a twenty five year old Toyota that still somehow manages to move obviously not without frequent treks to the garage
 
 After my recent trip to Tororo, I realized that I had an oil leakage and I had to change cascade among other things and also service the car. I also decided to add a seal to the oil pump which seems to have temporarily fixed that issue. This cost me a total of about 400K
 
