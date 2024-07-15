@@ -43,6 +43,7 @@ I was abled to get into my phone again with everything still in tack and surpris
 
 ### Retrospective
 > I’m not sure what happened
+
 I read on the internet that it could have been a software glitch but I think my iPhone ran out of storage space and somewhat couldn’t boot correctly. I am not sure how I was able to flash the firmware but I also acknowledge that I’m not so knowledgeable on this. 
 
 
@@ -50,4 +51,4 @@ I read on the internet that it could have been a software glitch but I think my 
 This was definitely worrying and it was not the first time something like this had happened. I’m writing this article so I can somewhat retrace my steps if this ever happens the third time. I am fortunate enough to own a MacBook and even somewhat know about 3u tools software that was of great help. I will be doing backups weekly on my macbook, incase anything weird happens I can simply restore a previous backup from my Mac or even go through this entire process again.
 
 ---
-Has something like this ever happened to you? If yes, I’d like to [know](https://x.com/stuartelimu) how you went about it? 
+Has something like this ever happened to you? If yes, I’d like to [know](https://x.com/messages/compose?recipient_id=733370826041491456) how you went about it? 
