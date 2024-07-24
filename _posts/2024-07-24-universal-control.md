@@ -5,7 +5,7 @@ title: Universal Control
 ---
 
 
-####
+<p></p>
 
 <img class="rounded-1" width="100%" alt="Universal Control" src="/assets/images/universal-control.jpg">
 
