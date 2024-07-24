@@ -1,19 +1,18 @@
 ---
 layout: post
-image: /assets/images/universal-control.jpg
 permalink: /blog/universal-control
 title: Universal Control 
 ---
 
-I am currently using a couple of Apple devices for both work and personal stuff and through the years I’ve developed a number of different workflows that have made working with the OS a bit easier. I love how [Rahul Chowdhury](https://x.com/chowdhuryrahul?s=21&t=FlIIn5d5UiQRzN5PKg_ARQ) shares Mac Tips on X and on [Hulry](https://hulry.com). I am usually blown away at how much is hidden under the hood that I am not taking advantage of.
 
-I am no expert neither do I spend countless hours exploring various applications or the OS but I figured, through my daily usage, I’d share a thing or two that I have found interesting and worth sharing. Enjoy!
-
+####
 
 <img class="rounded-1" width="100%" alt="Universal Control" src="/assets/images/universal-control.jpg">
 
 
+I am currently using a couple of Apple devices for both work and personal stuff and through the years I’ve developed a number of different workflows that have made working with the OS a bit easier. I love how [Rahul Chowdhury](https://x.com/chowdhuryrahul?s=21&t=FlIIn5d5UiQRzN5PKg_ARQ) shares Mac Tips on X and on [Hulry](https://hulry.com). I am usually blown away at how much is hidden under the hood that I am not taking advantage of.
 
+I am no expert neither do I spend countless hours exploring various applications or the OS but I figured, through my daily usage, I’d share a thing or two that I have found interesting and worth sharing. Enjoy!
 
 
 ### Introduction
