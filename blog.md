@@ -8,28 +8,6 @@ permalink: /blog/
 
 <ol class="post-list my-2">
     {% for post in site.posts %}
-    {% if forloop.index0 == 0 %}
-    <li>
-      <div class="card border">
-        <div style="display: flex; align-items: center; flex-wrap: wrap">
-          <div class="col-md-3 p-2">
-            {% if post.image %}
-              <img src="{{ post.image }}" class="img-fluid rounded-1" alt="...">
-            {% else %}
-              <img src="/assets/images/rijksmuseum.jpg" class="img-fluid rounded-1" alt="...">
-            {% endif %}
-          </div>
-          <div class="col-md-9 px-2 pb-2">
-            <div class="card-body">
-              <p class="card-title h2"><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p>
-              <p class="card-text" style="margin-right: 8px">{{ post.excerpt }}</p>
-              <p class="card-text"><small class="text-muted">{{ post.date | date: "%-d %B %Y" }}</small></p>
-            </div>
-          </div>
-        </div>
-      </div>
-     </li>
-    {% else %}
     <li>
       <div class="card">
         <div class="card-body px-2">
@@ -37,8 +15,7 @@ permalink: /blog/
         </div>
       </div>
     </li>
-    {% endif %}
-  {% endfor %}
+    {% endfor %}
 </ol>
   
       
