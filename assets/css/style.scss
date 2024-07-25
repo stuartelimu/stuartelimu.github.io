@@ -162,10 +162,12 @@
 // dotted hr, typically to wrap up the article
 .markdown-body hr {
 	padding: 0;
-	margin: 24px 0;
+	margin: 12px auto;
 	text-align: center;
 	border: 0;
 	height: unset;
+	background-color: none;
+	width: 8%;
 }
 
 .markdown-body hr:before {
