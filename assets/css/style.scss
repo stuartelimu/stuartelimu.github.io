@@ -166,11 +166,11 @@
 	text-align: center;
 	border: 0;
 	height: unset;
-	background-color: none;
-	width: 8%;
+	background-color: unset;
 }
 
 .markdown-body hr:before {
+  display: unset;
   content: "•  •  •";
   font-size: 20px;
   color: #888;
