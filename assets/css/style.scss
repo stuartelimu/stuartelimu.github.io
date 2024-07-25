@@ -159,7 +159,18 @@
 	margin-bottom: 0 !important;
 }
 
-
+// dotted hr, typically to wrap up the article
+hr {
+  margin: 12px 0;
+  border: 0;
+  text-align: center;
+  
+  &:before {
+    content: "\2022  \2022  \2022";
+    font-size: 20px;
+    color: #888;
+  }
+}
 
 
 
