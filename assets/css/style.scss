@@ -160,16 +160,17 @@
 }
 
 // dotted hr, typically to wrap up the article
-hr {
-  margin: 12px 0;
-  border: 0;
-  text-align: center;
-  
-  &:before {
-    content: "\2022  \2022  \2022";
-    font-size: 20px;
-    color: #888;
-  }
+.markdown-body hr {
+	padding: 0;
+	margin: 24px 0;
+	text-align: center;
+	border: 0;
+}
+
+.markdown-body hr:before {
+  content: "•  •  •";
+  font-size: 20px;
+  color: #888;
 }
 
 
