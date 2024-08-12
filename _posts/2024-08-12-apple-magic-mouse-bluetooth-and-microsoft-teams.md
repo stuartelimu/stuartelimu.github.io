@@ -27,7 +27,7 @@ I restarted the Mac mini by switching on and off the power button hoping, just l
 
 I was running out of time, I’d just received a text from my product owner asking if I was joining the call again. 
 
-I quickly pulled out my MacBook Pro (I’m not sure why I didn’t do this sooner) and tried to use universal control. It horribly failed to work, I’m not sure why, it could identify the MacBook Pro but it could only let me mirror my screen.
+I quickly pulled out my MacBook Pro (I’m not sure why I didn’t do this sooner) and tried to use [universal control](https://stuartelimu.me/blog/universal-control). It horribly failed to work, I’m not sure why, it could identify the MacBook Pro but it could only let me mirror my screen.
 
 I finally started doing a bunch of googling, after one or two search results, I found a solution that worked.
 
@@ -46,4 +46,4 @@ Well, that was quite an experience, and It made me realize these newer devices a
 I used to own a wireless mouse that came with a dongle but I weirdly broke it while switching the batteries. I guess it’s time to grab another one for this very reason. 
 
 ---
-Thanks for reading as always. Let me know if such a thing has ever happened to you and how you went  about it. 
+Thanks for reading as always. [Let me know](https://x.com/messages/compose?recipient_id=733370826041491456) if such a thing has ever happened to you and how you went about it. 
