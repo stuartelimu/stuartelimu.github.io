@@ -68,6 +68,11 @@
 
 }
 
+.nav-item a:hover {
+	text-decoration-style: dotted;
+	text-decoration-skip-ink: auto;
+}
+
 .logo,
 .nav-item {
   font-size: 16px;
