@@ -1,6 +1,6 @@
 # Reading
 
-> I am currently reading: [Between the World and Me]()
+> I am currently reading: [The Power of Moments]()
 
 I have been actively reading since 2019 while I was trying to educate myself about wealth and finances. My reading was greatly motivated by [Ali Abdaal](https://aliabdaal.com/). I prefer listening to audiobooks to reading physical books. 
 
@@ -8,6 +8,7 @@ Here is a list of every book I have listened to or read so far.
 
 ### 2025
 1. [The Mom Test]()
+2. [Between the World and Me]()
 
 ### 2023
 1. [The Mom Test]()
