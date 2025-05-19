@@ -1,6 +1,6 @@
 # Reading
 
-> I am currently reading: [The Power of Moments]()
+> I am currently reading: [Who Not How by Dan Sullivan]()
 
 I have been actively reading since 2019 while I was trying to educate myself about wealth and finances. My reading was greatly motivated by [Ali Abdaal](https://aliabdaal.com/). I prefer listening to audiobooks to reading physical books. 
 
@@ -9,6 +9,8 @@ Here is a list of every book I have listened to or read so far.
 ### 2025
 1. [The Mom Test]()
 2. [Between the World and Me]()
+3. [The Power of Moments - Chip and Dan Heath]()
+4. [The Purpose Driven Life - Rick Warren]()
 
 ### 2023
 1. [The Mom Test]()
