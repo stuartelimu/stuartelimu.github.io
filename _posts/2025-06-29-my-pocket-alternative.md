@@ -17,7 +17,7 @@ I honestly didn’t use Pocket so much like so many people I’ve seen online bu
 An iPhone, Claude & Apple Reminders
 
 ### Getting Started
-This is my first time properly using the Reminders app for something useful so forgive the mess. (Here's)[https://www.threads.com/@thehulry/post/DBOg8R9qWeM?utm_source=Hulry] Hulry's well structured approach that uses ChatGPT, I’m late to the party 
+This is my first time properly using the Reminders app for something useful so forgive the mess. [Here's](https://www.threads.com/@thehulry/post/DBOg8R9qWeM?utm_source=Hulry) Hulry's well structured approach that uses ChatGPT, I’m late to the party 
 
 Luckily I came across this method basically, he’s providing alternatives to Pocket, this is my version of 
 
