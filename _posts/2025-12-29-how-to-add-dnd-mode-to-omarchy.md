@@ -123,7 +123,7 @@ Restart Waybar (`pkill waybar && waybar &` or log out/in) to apply changes.
 
 The top bar should now look something like this, you can click on the bell icon it to toggle DND.
 
-<img width="1920" height="1080" alt="Pasted image 20251229174127" src="https://github.com/user-attachments/assets/634f7845-243b-4bb6-b474-0e8219088f5e" />
+<img width="100%" height="100%" alt="Pasted image 20251229174127" src="https://github.com/user-attachments/assets/634f7845-243b-4bb6-b474-0e8219088f5e" />
 
 
 ### Recommendations
