@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add DND mode to Omarchy.
+title: How to add DND mode to Omarchy
 ---
 I have been using web apps in Omarchy for all of the messaging apps that I use. Unfortunately there's no built in way to mute the desktop notifications other than disabling them from the web app settings from the browser. This approach isn't sustainable if you've a couple of web apps.
 
@@ -39,8 +39,10 @@ And finally we can toggle a mode using the following command. It will add the mo
 makoctl mode -t do-not-disturb
 ```
 
-### Configure Mako for DND Mode
+### Configuration
 Right, now that we can toggle our `do-not-disturb` mode, we need to actually silence the notifications. 
+
+#### Mako
 
 Add this to `~/.config/mako/config` to make notifications invisible in `do-not-disturb` mode:
 ```
@@ -68,7 +70,7 @@ makoctl mode -t do-not-disturb
 notify-send "Test" "Should appear"
 ```
 
-### Configure Omarchy for DND
+#### Omarchy
 
 We need to add a visual indicator and a way to toggle our `do-not-disturb` mode from the top bar.
 
@@ -96,8 +98,6 @@ I want our `do-not-disturb` icon to sit on the right side of our top bar so we c
 ],
 
 ```
-
-### Create the Script
 
 We need to create a shell script to toggle our `do-not-disturb` mode. I have a folder `~/.local/bin` where all my scripts live, you can create a similar folder so use a separate folder. 
 
